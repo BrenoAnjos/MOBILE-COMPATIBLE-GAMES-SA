@@ -11,6 +11,8 @@ var backgroundImg
 var score=0;
 var jumpSound, collidedSound;
 
+
+
 var gameOver, restart;
 
 
